@@ -1,0 +1,1 @@
+https://www.kaggle.com/competitions/generated-or-not/overview
